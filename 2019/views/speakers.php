@@ -22,7 +22,7 @@
                         </div>
                         <div class="card-action center">
                             <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/bragadennis"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
-                            <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/bragadennis"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                            <a class="blue-text text-darken-4" title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/dennis-braga"><i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>
                             </a>
                         </div>
                     </div>
